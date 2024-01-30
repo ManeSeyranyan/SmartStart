@@ -16,7 +16,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class GamingTableActivity extends AppCompatActivity {
-    private static final int NUM_IMAGES = 16;
+    private static final int NUM_IMAGES = 36;
     private List<Integer> unusedImageIndices = new ArrayList<>();
     private List<Integer> usedImageIndices = new ArrayList<>();
 
